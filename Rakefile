@@ -1,5 +1,6 @@
 require 'csv'
 require 'html/proofer'
+require 'json'
 
 namespace :update do
 
@@ -8,17 +9,20 @@ namespace :update do
     `cp _site/errors/404.html 404.html`
   end
 
+  # Input: CSV file with columns: incode, cdc(true|false)
   task :locations, [:filename] do |task, args|
     CSV.open("_data/locations.csv", "wb") do |output|
-      output << ['postcode','latitude','longitude']
+      output << ['postcode','latitude','longitude','cdc']
       CSV.foreach(args[:filename]) do |row|
         incode = row[0]
-        unless incode.blank?
+        cdc = row[1]
+        unless incode == ""
           sleep(2)
+          puts incode
           uri = URI.parse("http://mapit.mysociety.org/postcode/partial/#{incode}")
           data = JSON.parse(Net::HTTP.get(uri))
           if data["wgs84_lat"] && data["wgs84_lon"]
-            output << [incode, data["wgs84_lat"], data["wgs84_lon"]]
+            output << [incode, data["wgs84_lat"], data["wgs84_lon"], cdc]
           end
         end
       end

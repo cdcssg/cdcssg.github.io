@@ -48,7 +48,7 @@
     var supporterMarkers = [];
     var familyMarkers = [];
     {% for location in site.data.locations %}
-      {% if location.cdc == "true" %}
+      {% if location.cdc == "TRUE" %}
         var m = L.marker([{{location.latitude}}, {{location.longitude}}], {icon: familyIcon});
         m.bindPopup("Family: {{location.postcode}}")
         familyMarkers.push(m);
