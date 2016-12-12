@@ -1,6 +1,6 @@
 ---
 title: Lankykats
-author: James Smith
+author: Lucy Santos
 ---
 
 
