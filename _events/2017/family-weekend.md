@@ -16,11 +16,13 @@ Our family weekend this year is focused on collaborative discussion and workshop
 
 ### How many can sleep in each room?
 
-Because of the way the hotel is set up each room can take two adults, and two children under 12 on a double sofa bed. We also have a few larger rooms available that will fit a cot as well if you are a family with three small children and some interconnecting rooms, in order to facilitate larger families but please do get in [contact](/about/contact)to discuss this before you book.&nbsp;
+Because of the way the hotel is set up each room can take two adults, and two children under 12 on a double sofa bed. We also have a few larger rooms available that will fit a cot as well if you are a family with three small children and some interconnecting rooms, in order to facilitate larger families or those with children older than 12, but please do get in [contact](/about/contact)to discuss this before you book.&nbsp;
 
 ### What is included in the above rate?
 
-As our family weekend runs from Friday afternoon to Sunday morning your rate will include B&B for the Friday and Saturday night, a buffet dinner on Friday and Saturday night, speakers & workshops, and a trip to a nearby Zoo on the Saturday.&nbsp;
+As our family weekend runs from Friday afternoon to Sunday morning your rate will include B&B for the Friday and Saturday night, a buffet dinner on Friday and Saturday night, speakers & workshops, and a trip to a nearby Zoo on the Saturday. A buffet will be provided at the hotel on Saturday for those attending the speakers & workshops and a packed lunch will be provided for those on the trip.&nbsp;
+
+Day Delegates will receive speakers & workshops and a lunch on Saturday only.&nbsp;
 
 ### Are cots provided by the hotel?
 
