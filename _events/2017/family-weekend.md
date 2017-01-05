@@ -16,7 +16,7 @@ Our family weekend this year is focused on collaborative discussion and workshop
 
 ### How many can sleep in each room?
 
-Because of the way the hotel is set up each room can take two adults, and two children under 12 on a double sofa bed. We also have a few larger rooms available that will fit a cot as well if you are a family with three small children and some interconnecting rooms, in order to facilitate larger families or those with children older than 12, but please do get in [contact](/about/contact)to discuss this before you book.&nbsp;
+Because of the way the hotel is set up each room can take two adults, and two children under 12 on a double sofa bed. We also have a few larger rooms available that will fit a cot as well if you are a family with three small children and some interconnecting rooms, in order to facilitate larger families or those with children older than 12, but please do get in [contact](/about/contact)&nbsp;to discuss this before you book.&nbsp;
 
 ### What is included in the above rate?
 
@@ -30,4 +30,8 @@ The hotel will be able to provide some cots, but supply is always limited, so if
 
 ### Childcare arrangements
 
-As in previous years we will also be offering a trip on the Saturday which will be to a nearby zoo. We will arrange for a coach to pick up in the morning and drop back in the afternoon and provide pack lunches and entry to the Zoo. If you indicate that you are interested in the trip then we will get in touch once we have processed your booking to discuss care arrangements in order to facilitate this trip but we can either offer an extra bedroom at no charge, if you are able to bring a friend/family member, or we have a small number of carers through a local agency if you would prefer. We offer this option to cater for the preferences of families, after feedback from previous years, and understand that every family is different. If you would prefer to chat before you book please contact me.&nbsp;
+As in previous years we will also be offering a trip on the Saturday which will be to a nearby zoo. We will arrange for a coach to pick up in the morning and drop back in the afternoon and provide pack lunches and entry to the Zoo. If you indicate that you are interested in the trip then we will get in touch once we have processed your booking to discuss care arrangements in order to facilitate this trip but we can either offer an extra bedroom at no charge, if you are able to bring a friend/family member, or we may be able to have a small number of carers through a local agency if you would prefer. We offer this option, subject to numbers, to cater for the preferences of families, after feedback from previous years, and understand that every family is different. If you would prefer to chat before you book please contact [me](/about/contact).&nbsp;
+
+### Further support
+
+If you want to come, we want to enable you to be there. If there is anything getting in the way of you attending, such as travel expenses or other finance issues, or if you have any other questions, please get in touch; we can help and we want to help.
