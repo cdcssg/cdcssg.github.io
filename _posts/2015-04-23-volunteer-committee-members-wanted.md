@@ -1,5 +1,6 @@
 ---
-published: true
+title: Volunteer Committee Members Wanted
+date: 2015-04-23 00:00:00 Z
 author: Lucy Santos
 ---
 

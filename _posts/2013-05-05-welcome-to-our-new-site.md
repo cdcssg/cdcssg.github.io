@@ -1,5 +1,6 @@
 ---
 title: Welcome to our new site!
+date: 2013-05-05 00:00:00 Z
 author: James Smith
 ---
 

@@ -1,6 +1,6 @@
 ---
-published: true
 title: Cicely's Story
+date: 2014-12-03 00:00:00 Z
 author: Caspar Hull
 ---
 

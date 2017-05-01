@@ -1,8 +1,8 @@
 ---
 title: Thanks to Phil Cox
+date: 2017-01-04 00:00:00 Z
 author: Lucy Santos
 ---
-
 
 A big thanks to Phil Cox who has donated the profits of sales of his book, *Point North and Pedal*, to us.
 
