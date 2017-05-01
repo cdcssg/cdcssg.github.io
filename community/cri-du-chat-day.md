@@ -1,8 +1,7 @@
 ---
 title: Cri du Chat Syndrome Awareness Day
 description: Details of Cri du Chat Syndrome Day
-keywords: null
-published: true
+keywords: 
 ---
 
 ## 5th May 2015
