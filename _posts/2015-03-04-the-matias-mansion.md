@@ -1,6 +1,5 @@
 ---
-title: The Matias Mansion
-date: 2015-03-04 00:00:00 Z
+published: true
 author: Damian Haywood
 ---
 

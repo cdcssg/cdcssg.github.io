@@ -1,6 +1,5 @@
 ---
-title: Meetups Everywhere In 2015
-date: 2015-02-04 00:00:00 Z
+published: true
 author: James Smith
 ---
 

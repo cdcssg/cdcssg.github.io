@@ -1,6 +1,5 @@
 ---
-title: 'Our Story: The Sparkes Family'
-date: 2014-04-26 00:00:00 Z
+title: "Our Story: The Sparkes Family"
 author: Jamie Sparkes
 ---
 

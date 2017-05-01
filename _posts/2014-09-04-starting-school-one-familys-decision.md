@@ -1,8 +1,9 @@
 ---
+published: true
 title: Starting School - One Family's Decision
-date: 2014-09-04 00:00:00 Z
 author: Sarah Brooks
 ---
+
 
 It feels like it’s been a long road to get to this point, yet at the same time I cannot believe my daughter is going off to school. Surely I…I mean she…can’t be old enough....Those days in the hospital when she was first born seem like only yesterday, yet tonight I will be ironing in name tags in to her school clothes.
 

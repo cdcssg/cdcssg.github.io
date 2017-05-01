@@ -1,9 +1,8 @@
 ---
 title: Newsletters
 description: Download Cri du Chat Syndrome Support Group newsletters
-keywords: 
+keywords:
 ---
-
 We publish a monthly email newsletter, full of information and news from the Support Group. You can see [old newsletters here](http://us7.campaign-archive2.com/home/?u=8b563979fb561ed56e313f0d6&id=44b5765777), and if you'd like to receive the next copy, subscribe below!
 
 <div class='well'>

@@ -1,6 +1,5 @@
 ---
 title: Cerebra Update
-date: 2013-04-04 00:00:00 Z
 author: Caspar Hull
 ---
 

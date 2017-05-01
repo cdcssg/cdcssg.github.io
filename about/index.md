@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: About the Cri du Chat Syndrome Support Group
-keywords: 
+keywords:
 ---
 
 The Cri du Chat Syndrome Support Group was founded in the mid 1980s by Ann Wilson, a 

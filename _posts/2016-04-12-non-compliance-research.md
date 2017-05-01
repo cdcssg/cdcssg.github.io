@@ -1,9 +1,8 @@
 ---
-title: 'Research: Non-compliance in children'
-date: 2016-04-12 00:00:00 Z
+title: "Research: Non-compliance in children"
+published: true
 author: Caspar Hull
 ---
-
 Dr Kate Woodcock from Queen's University Belfast would like your help with her research into non-compliant behaviour in children:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q8-k1FtsFyE" frameborder="0" allowfullscreen></iframe>

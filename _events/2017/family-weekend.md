@@ -1,9 +1,10 @@
 ---
 title: Family Weekend
-start: 2017-05-05 17:00:00 Z
-end: 2017-05-07 11:00:00 Z
-location: Northampton Marriott Hotel, Eagle Drive, Northampton, NN4 7HW
+start: 2017-05-05 17:00:00
+end: 2017-05-07 11:00:00
+location: 'Northampton Marriott Hotel, Eagle Drive, Northampton, NN4 7HW'
 ---
+
 
 The 2017 Cri du Chat Syndrome Support Group Family Weekend is being held in Northampton, in May! Join us for a weekend of sharing, learning, meeting up with friends, and laughter!
 

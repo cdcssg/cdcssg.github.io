@@ -1,6 +1,5 @@
 ---
 title: What is CdC Awareness Week?
-date: 2013-03-29 00:00:00 Z
 author: Lucy Santos
 ---
 

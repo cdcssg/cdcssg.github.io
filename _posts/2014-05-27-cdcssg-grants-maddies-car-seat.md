@@ -1,6 +1,5 @@
 ---
-title: 'CdCSSG Grants: Maddie''s Car Seat'
-date: 2014-05-27 00:00:00 Z
+title: "CdCSSG Grants: Maddie's Car Seat"
 author: Lianne Thayre
 ---
 
