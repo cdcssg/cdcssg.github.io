@@ -1,7 +1,7 @@
 ---
 title: Global Community
 description: Links to Cri du Chat groups around the world
-keywords: 
+keywords:
 ---
 
 The CdCSSG is not limited to families in the UK and Ireland, and we have supporters from all over the world.

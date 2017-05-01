@@ -1,6 +1,6 @@
 ---
-title: South West Meeting
 ---
+
 
 Saturday 11th February 2017, 11 - 4
 <br>Coleford

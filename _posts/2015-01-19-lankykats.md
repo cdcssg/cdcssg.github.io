@@ -1,9 +1,8 @@
 ---
-title: Lankykats supporting families affected by Cri du Chat Syndrome
-date: 2015-01-19 00:00:00 Z
+published: true
+title: "Lankykats supporting families affected by Cri du Chat Syndrome"
 author: Lucy Santos
 ---
-
 ![Lankykats](/img/posts/2015-01-19/lankykats.jpg)
 
 We are delighted to be one of the [Lankykats](http://www.lankykats.com) chosen charities for 2014 and 2015. 

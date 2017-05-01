@@ -1,80 +1,78 @@
----
-title: CDCSSG
-timezone: UTC
-collections:
-  events:
-    title: Events
-    output: true
-  meetings:
-    title: Meetings
-    output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: blog_post
-    group: About Us
-- scope:
-    path: events
-    type: pages
-  values:
-    group: Events
-    layout: events
-- scope:
-    path: ''
-    type: meetings
-  values:
-    group: About Us
-    permalink: "/about/meetings/:year/:month/:day/:title"
-    layout: meeting
-- scope:
-    path: about
-  values:
-    group: About Us
-- scope:
-    path: community
-  values:
-    group: Community
-- scope:
-    path: fundraising
-  values:
-    group: Fundraising
-- scope:
-    path: information
-  values:
-    group: Information
-- scope:
-    path: start_here
-  values:
-    group: New Families
-- scope:
-    path: ''
-    type: events
-  values:
-    layout: event
-    group: Events
 version: 3.0.3
-permalink: "/about/news/:year/:month/:day/:title.html"
+permalink: /about/news/:year/:month/:day/:title.html
 markdown: kramdown
-gems:
-- jemoji
-- jekyll-redirect-from
-- jekyll-sitemap
-- jekyll-feed
+gems: 
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
 feed:
   path: about/news.atom
 future: true
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "blog_post"
+      group: "About Us"
+  -
+    scope:
+      path: "events"
+      type: "pages"
+    values:
+      group: "Events"
+      layout: events
+  -
+    scope:
+      type: "meetings"
+    values:
+      group: "About Us"
+      permalink: "/about/meetings/:year/:month/:day/:title"
+      layout: meeting
+  -
+    scope:
+      path: "about"
+    values:
+      group: "About Us"
+  -
+    scope:
+      path: "community"
+    values:
+      group: "Community"
+  -
+    scope:
+      path: "fundraising"
+    values:
+      group: "Fundraising"
+  -
+    scope:
+      path: "information"
+    values:
+      group: "Information"
+  -
+    scope:
+      path: "start_here"
+    values:
+      group: "New Families"
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+      group: "Events"
+collections:
+  events:
+    output: true
+  meetings:
+    output: true
 maps_api_key: AIzaSyCtjkfaB7Q7Qf2Fy11YrtNn9gZFKeGtUwM
 justgiving:
   app: d22062fe
@@ -82,5 +80,6 @@ justgiving:
 mapbox:
   project_id: floppy.npmjfm2g
   public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
-exclude:
-- vendor
+
+exclude: 
+  - vendor

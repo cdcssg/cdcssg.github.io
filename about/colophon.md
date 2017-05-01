@@ -1,7 +1,7 @@
 ---
 title: Colophon
-description: 
-keywords: 
+description:
+keywords:
 ---
 
 We made this site using [Jekyll](http://jekyllrb.com), and we used Twitter's 

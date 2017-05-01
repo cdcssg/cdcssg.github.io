@@ -1,8 +1,8 @@
 ---
-title: Pepi's Story
-date: 2017-01-04 00:00:00 Z
+title: "Pepi's Story"
 author: Lucy Santos
 ---
+
 
 ![](/uploads/versions/image1---x----960-1199x---.jpeg)
 

@@ -1,6 +1,5 @@
 ---
-title: Changing Membership
-date: 2015-07-03 00:00:00 Z
+published: true
 author: Lucy Santos
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: CdC Day 2013 - The Pledge
-date: 2013-04-04 00:00:00 Z
 author: Lucy Santos
 ---
 

@@ -1,0 +1,172 @@
+---
+---
+
+@font-face {
+  font-family: "Transport New Light";
+  src: url(/font/TransportNewLight.otf);
+}
+
+@media (min-width: 768px) {
+  .homepage-row p {
+    min-height: 5em;
+  }
+}
+
+p, li {
+  line-height: 175% !important;
+}
+
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 21px;
+}
+
+h3 {
+	font-size: 15px;
+}
+
+.homepage-row {
+  
+  div.alert-info {
+    padding: 19px;
+  }
+
+  .hero-unit {
+    background: url(/img/header.jpg);
+    background-repeat: no-repeat;
+    background-color: #b7b7bb;
+    background-size: cover;
+    color: white;
+    background-position: center center;
+  }
+
+  div.well-content {
+    min-height: 100px;
+  }
+  
+}
+
+footer {
+  margin-top: 20px;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+  font-size: 85%;
+  
+  a {
+    color: black;
+  }
+}
+
+a#logo img {
+  margin-right: 10px;
+}
+
+div.navbar {
+  margin-top: 10px;
+}
+
+a#donate {
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+div#committee {
+  
+  div {
+	  clear: both;
+    
+    img {
+    	width: 150px;
+    	height: 200px;
+    	-webkit-border-radius: 10px;
+    	-moz-border-radius: 10px;
+    	border-radius: 10px;
+    }
+
+    &:nth-child(even) {
+    	text-align: right;
+    }
+
+    &:nth-child(odd) img {
+    	float: left;
+    	margin-right: 20px;
+    }
+
+    &:nth-child(even) img {
+    	float: right;
+    	margin-left: 20px;
+    }
+
+  }
+
+}
+
+.service-icon {
+  font-size: 150%;
+}
+
+.medical h5 {
+  cursor: pointer;
+}
+
+.tagline {
+  margin-top: 40px;
+}
+
+
+.blog-post {
+  
+  img {
+    max-height: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+
+  h1, h2, h3, h4 {
+    clear: both;
+  }
+}
+
+.navbar-search .search-query {
+  width: 100px;
+}
+
+.events li.span4 {
+  margin-left: 0px !important;
+  margin-right: 1%;
+}
+
+p#spinner {
+  text-align: center;
+}
+
+ul.fundraisers {
+  
+  li.span4 {
+    margin-left: 0px;
+  }
+
+  div.thumbnail {
+    background-size: cover; 
+    background-position: center;
+    padding: 0px;
+  }
+
+  div.caption {
+    background-color: rgba(255,255,255,0.75); 
+    min-height:15em;
+  }
+}
+
+.supporter {
+  text-align: center;
+  
+  img {
+    height: 50px;
+  }
+  
+}
