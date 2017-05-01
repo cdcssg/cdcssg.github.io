@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 description: Privacy policy for the Cri du Chat Syndrome Support Group website
-keywords:
+keywords: 
 ---
 
 ## Website Data

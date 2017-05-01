@@ -1,7 +1,9 @@
 ---
 title: Two research projects need your help!
+date: 2016-09-26 00:00:00 Z
 author: James Smith
 ---
+
 More scientific research into Cri du Chat Syndrome is always a good thing, to help our families and all those in the future. So, we're excited to tell you about not one but **two** new research projects that need your help!
 
 ## ImagineID

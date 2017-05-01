@@ -1,5 +1,6 @@
 ---
-published: true
+title: South East Meetup
+date: 2015-01-31 00:00:00 Z
 author: Amanda Smith
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Family Weekend
-start: 2016-05-06T17:00:00.000Z
-end: 2016-05-08T11:00:00.000Z
-facebook: 'https://www.facebook.com/events/216482285353769/'
-location: 'Ramada Hotel, The Butts, Earlsdon, Coventry, CV1 3GG'
+start: 2016-05-06 17:00:00 Z
+end: 2016-05-08 11:00:00 Z
+facebook: https://www.facebook.com/events/216482285353769/
+location: Ramada Hotel, The Butts, Earlsdon, Coventry, CV1 3GG
 ---
-
 
 The 2016 Cri du Chat Syndrome Support Group Family Weekend is being held in Coventry, in May! Join us at the Ramada Hotel for a weekend of sharing, learning, meeting up with friends, and laughter!
 

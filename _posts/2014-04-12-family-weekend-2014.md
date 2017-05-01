@@ -1,5 +1,6 @@
 ---
 title: Family Weekend 2014
+date: 2014-04-12 00:00:00 Z
 author: Lucy Santos
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Southeast CDC Meetup
+date: 2013-10-24 00:00:00 Z
 author: Amanda Smith
 ---
 

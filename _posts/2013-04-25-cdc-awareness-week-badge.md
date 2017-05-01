@@ -1,5 +1,6 @@
 ---
 title: CdC Awareness Week Badge
+date: 2013-04-25 00:00:00 Z
 author: Lucy Santos
 ---
 

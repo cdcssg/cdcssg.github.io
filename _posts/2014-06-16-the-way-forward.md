@@ -1,5 +1,6 @@
 ---
-title: "Survey - The Way Forward"
+title: Survey - The Way Forward
+date: 2014-06-16 00:00:00 Z
 author: Lucy Santos
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 5p for 5p
 description: Details of the 5p-for-5p fundraising scheme
-keywords:
+keywords: 
 ---
 
 <img src='/img/5pfor5p.jpg' alt='5p for 5p bottle' class='pull-right' style='margin-left: 20px'/>

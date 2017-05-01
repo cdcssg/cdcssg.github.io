@@ -1,5 +1,6 @@
 ---
-published: true
+title: South West Meet Up
+date: 2015-03-04 00:00:00 Z
 author: Sarah Owen
 ---
 
