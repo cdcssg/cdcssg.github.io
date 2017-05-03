@@ -1,15 +1,16 @@
 ---
 title: Cri du Chat Syndrome Awareness Day
 description: Details of Cri du Chat Syndrome Day
-keywords: null
+keywords:
 published: true
 ---
 
-## 5th May 2015
 
-<img src='/img/wristband.jpg' style='float: right; margin: 20px; border-radius: 10px' alt='Wristband'/>
+## 5th May 2017
 
-Individuals and families affected by Cri du Chat Syndrome will be using Cri du Chat Awareness Week (3-9 May 2015) to send the message that these individuals deserve to be recognized for what they *can* do, not what they can't.
+![Wristband](/img/wristband.jpg)
+
+Individuals and families affected by Cri du Chat Syndrome will be using Cri du Chat Awareness Week to send the message that these individuals deserve to be recognized for what they *can* do, not what they can't.
 
 The 5th May is designated **Cri du Chat Syndrome Day** and this is when we ask our friends, supporters and families to help us raise awareness in the United Kingdom of Cri du Chat Syndrome.
 
@@ -29,7 +30,7 @@ To celebrate and support Cri du Chat Syndrome Day we would like to invite people
 
 5. Drink a bottle of wine to raise money for Cri du Chat – [yes, that’s right](/fundraising/5p-for-5p.html)!
 
-6. Sell wristbands for the group – they are only £1 each! Email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=wristbands) for details.
+6. Sell wristbands for the group – they are only &pound;1 each! Email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=wristbands) for details.
 
 7. Donate an hour to Cri du Chat – this can be anything from the equivalent of an hours wages to the group, an hour of babysitting for friends/family with a child with CdC Syndrome or even an hour on Facebook promoting the group.
 
@@ -39,7 +40,7 @@ To celebrate and support Cri du Chat Syndrome Day we would like to invite people
 
 ## Creating a photo
 
-You can easily make a photograph using a picture of your family for Cri du Chat Awareness Day.  
+You can easily make a photograph using a picture of your family for Cri du Chat Awareness Day.
 
 1. First of all, choose an image.
 
