@@ -14,7 +14,7 @@ Everything that was previously available to members is now available to anyone a
 Instead of becoming a member, we're asking people instead to support our work with a regular donation. You can set up a direct debit by clicking below, and anything you can donate helps.
 
 <p style='text-align: center'>
-  <a href="https://www.justgiving.com/donation/direct/charity/99993?frequency=monthlydirectdebit&amount=3"><img src="http://www.justgiving.com/charities/content/images/logo-buttons/purple/donate_dd_purple.gif" alt="Set up a direct debit with JustGiving" /></a>
+  <a href="https://www.justgiving.com/donation/direct/charity/99993?frequency=monthlydirectdebit&amount=3"><img src="https://www.justgiving.com/charities/content/images/logo-buttons/purple/donate_dd_purple.gif" alt="Set up a direct debit with JustGiving" /></a>
 </p>
 
 If you were previously a member we hope that you will continue to support us by either leaving your current Standing Order in place, or commit to a regular donation via JustGiving.
