@@ -1,5 +1,7 @@
+require 'jekyll/test/tasks'
+task default: "jekyll:check"
+
 require 'csv'
-require 'html/proofer'
 require 'json'
 
 namespace :update do
@@ -31,24 +33,5 @@ namespace :update do
 
 end
 
-task :rebuild do
-  sh "rm -rf _site"
-  sh "bundle exec jekyll build"
-end
-
-task :htmlproofer => :rebuild do
-  ignored = [
-    "http://githubeditor.herokuapp.com"
-  ]
-  HTML::Proofer.new("./_site", 
-    typhoeus: {ssl_verifypeer: false, timeout: 30, followlocation: true}, 
-    url_ignore: ignored, 
-    check_html: true, 
-    assume_extension: ".html",
-    href_ignore: [/facebook.com/]).run
-end
-
 require 'rspec/core/rake_task'
 RSpec::Core::RakeTask.new(:spec => :rebuild)
-
-task :default => [:htmlproofer]
