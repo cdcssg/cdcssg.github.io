@@ -8,4 +8,4 @@ A huge thank you to Lankykats for their latest donation to the work of the suppo
 
 You can find out more about them on their website http://www.lankykats.com/
 
-![](/uploads/versions/capture---x----509-138x---.PNG)
+![Lankykats](/uploads/versions/capture---x----509-138x---.PNG)

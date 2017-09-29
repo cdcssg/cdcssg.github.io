@@ -8,7 +8,7 @@ A big thanks to Phil Cox who has donated the profits of sales of his book, *Poin
 
 A fascinating read, this book tells the story of Phil achieving his life ambition - a solo cycle from Land's End to John O'Groats - and is well worth a read.&nbsp;
 
-![](/uploads/versions/capture---x----214-348x---.PNG)
+![Point North & Pedal](/uploads/versions/capture---x----214-348x---.PNG)
 
 Paperback copies available from www.phil-cox.net or Kindle version is available from [Amazon](https://www.amazon.co.uk/dp/B00M0FI46A/)
 
