@@ -80,6 +80,12 @@ justgiving:
 mapbox:
   project_id: floppy.npmjfm2g
   public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
-
 exclude: 
   - vendor
+plugins:
+  - algoliasearch-jekyll
+algolia:
+  application_id: 6ET4OZRB4M
+  index_name:     search
+  search_api_key: d3c04b4d2db17b27a850a804bc78a0f4
+  record_css_selector: p,ul,table
