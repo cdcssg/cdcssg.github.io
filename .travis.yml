@@ -5,6 +5,7 @@ cache: bundler
 rvm:
 - 2.4.2
 script: bundle exec rake $TASK
+after_success: bundle exec jekyll algolia push
 env:
 - TASK='jekyll:check'
 - TASK='jekyll:check_external_links'

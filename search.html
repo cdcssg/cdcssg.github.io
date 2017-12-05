@@ -1,15 +1,53 @@
 ---
-layout: main
-title: Cri du Chat Syndrome Support Group
+layout: default
+title: Search
 sitemap: false
 description: Cri du Chat Syndrome Support Group site search
 keywords:
 ---
 
-<h1>Search Results</h1>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.5/dist/instantsearch.min.css">
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.5/dist/instantsearch.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.2.5/dist/instantsearch-theme-algolia.min.css">
 
-<div id="tapir_search_results" data-api_key='51e5b71668548801000006d1'>
-  Searching...
+<div id="search-box">
+  <!-- SearchBox widget will appear here -->
 </div>
 
-<script src="/javascripts/tapir.js"></script>
+<div id="hits">
+  <!-- Hits widget will appear here -->
+</div>
+
+<script>
+  const search = instantsearch({
+    appId: '{{site.algolia.application_id}}',
+    apiKey: '{{site.algolia.search_api_key}}',
+    indexName: '{{site.algolia.index_name}}',
+    urlSync: true
+  });
+
+  // initialize SearchBox
+  search.addWidget(
+    instantsearch.widgets.searchBox({
+      container: '#search-box',
+      placeholder: 'Search',
+      cssClasses: 'blah',
+      reset: false,
+      magnifier: false,
+    })
+  );
+
+  search.addWidget(
+    instantsearch.widgets.hits({
+      container: '#hits',
+      templates: {
+        empty: 'No results',
+        item: '<div class="card" style="margin: 1rem 0"><div class="card-body"><strong class="card-title"><a href="\{\{url\}\}">\{\{title\}\}</a></strong><p class="card-text">\{\{text\}\}</p></div></div>'
+      }
+    })
+  );
+
+  search.start();
+</script>
+
+<img src='https://www.algolia.com/static_assets/images/press/downloads/search-by-algolia.png' width='150rem' alt='search by Algolia' class='pull-right'/>
