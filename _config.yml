@@ -1,7 +1,8 @@
 version: 3.0.3
 permalink: /about/news/:year/:month/:day/:title.html
 markdown: kramdown
-gems: 
+plugins:
+  - algoliasearch-jekyll
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
@@ -82,8 +83,6 @@ mapbox:
   public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
 exclude: 
   - vendor
-plugins:
-  - algoliasearch-jekyll
 algolia:
   application_id: 6ET4OZRB4M
   index_name:     search
