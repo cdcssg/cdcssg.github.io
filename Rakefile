@@ -3,6 +3,7 @@ task default: "jekyll:check"
 
 require 'csv'
 require 'json'
+require 'net/http'
 
 namespace :update do
 
@@ -21,7 +22,7 @@ namespace :update do
         unless incode == ""
           sleep(2)
           puts incode
-          uri = URI.parse("http://mapit.mysociety.org/postcode/partial/#{incode}")
+          uri = URI.parse("https://mapit.mysociety.org/postcode/partial/#{incode}")
           data = JSON.parse(Net::HTTP.get(uri))
           if data["wgs84_lat"] && data["wgs84_lon"]
             output << [incode, data["wgs84_lat"], data["wgs84_lon"], cdc]
