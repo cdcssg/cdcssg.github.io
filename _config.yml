@@ -2,7 +2,7 @@ version: 3.0.3
 permalink: /about/news/:year/:month/:day/:title.html
 markdown: kramdown
 plugins:
-  - algoliasearch-jekyll
+  - jekyll-algolia
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
