@@ -120,7 +120,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-algolia (1.4.1)
+    jekyll-algolia (1.4.2)
       algolia_html_extractor (~> 2.6)
       algoliasearch (~> 1.18)
       filesize (~> 0.1)
