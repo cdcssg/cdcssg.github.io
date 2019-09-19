@@ -5,7 +5,7 @@ ruby "2.4.2"
 gem 'github-pages'
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.4'
+  gem 'jekyll-algolia', '~> 1.5'
 end
 
 group :test do

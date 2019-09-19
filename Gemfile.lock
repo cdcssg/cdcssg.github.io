@@ -10,7 +10,7 @@ GEM
     algolia_html_extractor (2.6.1)
       json (~> 2.0)
       nokogiri (~> 1.8.2)
-    algoliasearch (1.25.2)
+    algoliasearch (1.27.0)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     backports (3.11.4)
@@ -31,7 +31,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     faraday_middleware (0.12.2)
       faraday (>= 0.7.4, < 1.0)
-    ffi (1.9.25)
+    ffi (1.11.1)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -120,11 +120,11 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-algolia (1.4.11)
+    jekyll-algolia (1.5.0)
       algolia_html_extractor (~> 2.6)
-      algoliasearch (~> 1.25)
+      algoliasearch (~> 1.26)
       filesize (~> 0.1)
-      jekyll (~> 3.0)
+      jekyll (>= 3.6, < 5.0)
       json (~> 2.0)
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
@@ -230,7 +230,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    json (2.1.0)
+    json (2.2.0)
     kramdown (1.16.2)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -255,7 +255,7 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    progressbar (1.10.0)
+    progressbar (1.10.1)
     public_suffix (2.0.5)
     pusher-client (0.6.2)
       json
@@ -284,8 +284,8 @@ GEM
     ruby-enum (0.7.2)
       i18n
     rubyzip (1.2.2)
-    safe_yaml (1.0.4)
-    sass (3.7.2)
+    safe_yaml (1.0.5)
+    sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -319,7 +319,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-algolia (~> 1.4)
+  jekyll-algolia (~> 1.5)
   jekyll-test
 
 RUBY VERSION
